@@ -1,2 +1,2 @@
 # map
-Maps based on Australia NationalMap
+Maps based on Australia NationalMap.
