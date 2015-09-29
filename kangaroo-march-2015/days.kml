@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kangaroo March 2015</name>
+    <Style id="transRedPoly">
+      <LineStyle>
+        <width>3</width>
+        <color>640000FF</color> <!-- red 100% -->
+      </LineStyle>
+      <PolyStyle>
+        <color>1600ffff</color> <!-- yellow 25% -->
+      </PolyStyle>
+      <LabelStyle>
+        <color>6400ffff</color> <!-- yellow 100% -->
+        <scale>1</scale>
+      </LabelStyle>
+      <IconStyle>
+        <scale>0</scale>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Wagga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 1<br/>
+            Date: 5/9/2015<br/>
+            Day of week: Saturday<br/>
+            Break camp: Wagga<br/>
+            Route: Wagga to Brucedale<br/>
+            Stage: 18kms<br/>
+            URL: http://kangaroomarch.org.au/location/wagga/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                147.347,-35.129,0
+                147.347,-35.119,0
+                147.357,-35.119,0
+                147.357,-35.129,0
+                147.347,-35.129,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>147.352,-35.124,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Brucedale</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 2<br/>
+            Date: 6/9/2015<br/>
+            Day of week: Sunday<br/>
+            Break camp: Brucedale<br/>
+            Route: Brucedale to Harefield<br/>
+            Stage: 12kms<br/>
+            URL: http://kangaroomarch.org.au/location/brucedale/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                147.408,-35.032,0
+                147.408,-35.022,0
+                147.418,-35.022,0
+                147.418,-35.032,0
+                147.408,-35.032,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>147.413,-35.027,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Harefield</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 3<br/>
+            Date: 7/9/2015<br/>
+            Day of week: Monday<br/>
+            Break camp: Harefield<br/>
+            Route: Harefield to Junee<br/>
+            Stage: 22kms<br/>
+            URL: http://kangaroomarch.org.au/location/harefield/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                147.471,-34.965,0
+                147.471,-34.955,0
+                147.481,-34.955,0
+                147.481,-34.965,0
+                147.471,-34.965,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>147.476,-34.96,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Junee</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 5<br/>
+            Date: 9/9/2015<br/>
+            Day of week: Wednesday<br/>
+            Break camp: Junee<br/>
+            Route: Junee to Illabo<br/>
+            Stage: 24kms<br/>
+            URL: http://kangaroomarch.org.au/location/junee/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                147.568,-34.864,0
+                147.568,-34.854,0
+                147.578,-34.854,0
+                147.578,-34.864,0
+                147.568,-34.864,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>147.573,-34.859,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Illabo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 6<br/>
+            Date: 10/09/2015<br/>
+            Day of week: Thursday<br/>
+            Break camp: Illabo<br/>
+            Route: Illabo to Bethungra<br/>
+            Stage: 17.5kms<br/>
+            URL: http://kangaroomarch.org.au/location/illabo/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                147.748,-34.821,0
+                147.748,-34.811,0
+                147.758,-34.811,0
+                147.758,-34.821,0
+                147.748,-34.821,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>147.753,-34.816,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Bethungra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 7<br/>
+            Date: 11/09/2015<br/>
+            Day of week: Friday<br/>
+            Break camp: Bethungra<br/>
+            Route: Bethungra to Cootamundra<br/>
+            Stage: 30kms<br/>
+            URL: http://kangaroomarch.org.au/location/bethungra/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                147.847,-34.761,0
+                147.847,-34.751,0
+                147.857,-34.751,0
+                147.857,-34.761,0
+                147.847,-34.761,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>147.852,-34.756,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Cootamundra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 9<br/>
+            Date: 13/09/2015<br/>
+            Day of week: Sunday<br/>
+            Break camp: Cootamundra<br/>
+            Route: Cootamundra to Wallendbeen<br/>
+            Stage: 23.4kms<br/>
+            URL: http://kangaroomarch.org.au/location/cootamundra/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.034,-34.646,0
+                148.034,-34.636,0
+                148.044,-34.636,0
+                148.044,-34.646,0
+                148.034,-34.646,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.039,-34.641,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Wallendbeen</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 10<br/>
+            Date: 14/09/2015<br/>
+            Day of week: Monday<br/>
+            Break camp: Wallendbeen<br/>
+            Route: Wallendbeen to Harden Murrumburrah<br/>
+            Stage: 25.3kms<br/>
+            URL: http://kangaroomarch.org.au/location/wallendbeen/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.155,-34.535,0
+                148.155,-34.525,0
+                148.165,-34.525,0
+                148.165,-34.535,0
+                148.155,-34.535,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.16,-34.53,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Harden Murrumburrah</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 11<br/>
+            Date: 15/09/2015<br/>
+            Day of week: Tuesday<br/>
+            Break camp: Harden Murrumburrah<br/>
+            Route: Harden Murrumburrah to Galong<br/>
+            Stage: 24.6kms<br/>
+            URL: http://kangaroomarch.org.au/location/harden/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.353,-34.551,0
+                148.353,-34.541,0
+                148.363,-34.541,0
+                148.363,-34.551,0
+                148.353,-34.551,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.358,-34.546,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Galong</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 12<br/>
+            Date: 16/09/2015<br/>
+            Day of week: Wednesday<br/>
+            Break camp: Galong<br/>
+            Route: Galong to Binalong via Bobbara<br/>
+            Stage: 13kms<br/>
+            URL: http://kangaroomarch.org.au/location/galong/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.55,-34.608,0
+                148.55,-34.598,0
+                148.56,-34.598,0
+                148.56,-34.608,0
+                148.55,-34.608,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.555,-34.603,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Binalong</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 13<br/>
+            Date: 17/09/2015<br/>
+            Day of week: Thursday<br/>
+            Break camp: Binalong<br/>
+            Route: Binalong to Bowning<br/>
+            Stage: 23kms<br/>
+            URL: http://kangaroomarch.org.au/location/binalong/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.63,-34.679,0
+                148.63,-34.669,0
+                148.64,-34.669,0
+                148.64,-34.679,0
+                148.63,-34.679,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.635,-34.674,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Bowning</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 14<br/>
+            Date: 18/09/2015<br/>
+            Day of week: Friday<br/>
+            Break camp: Bowning<br/>
+            Route: Bowning to Yass<br/>
+            Stage: 21kms<br/>
+            URL: http://kangaroomarch.org.au/location/bowning/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.817,-34.776,0
+                148.817,-34.766,0
+                148.827,-34.766,0
+                148.827,-34.776,0
+                148.817,-34.776,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.822,-34.771,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Yass</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 17<br/>
+            Date: 21/09/2015<br/>
+            Day of week: Monday<br/>
+            Break camp: Yass<br/>
+            Route: Yass to Jerrawa<br/>
+            Stage: 20kms<br/>
+            URL: http://kangaroomarch.org.au/location/yass/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                148.918,-34.847,0
+                148.918,-34.837,0
+                148.928,-34.837,0
+                148.928,-34.847,0
+                148.918,-34.847,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>148.923,-34.842,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Jerrawa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 18<br/>
+            Date: 22/09/2015<br/>
+            Day of week: Tuesday<br/>
+            Break camp: Jerrawa<br/>
+            Route: Jerrawa to Gunning via Dalton<br/>
+            Stage: 26kms<br/>
+            URL: http://kangaroomarch.org.au/location/jerrawa/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                149.078,-34.79,0
+                149.078,-34.78,0
+                149.088,-34.78,0
+                149.088,-34.79,0
+                149.078,-34.79,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>149.083,-34.785,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Gunning</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 19<br/>
+            Date: 23/09/2015<br/>
+            Day of week: Wednesday<br/>
+            Break camp: Gunning<br/>
+            Route: Gunning to Breadalbane<br/>
+            Stage: 25kms<br/>
+            URL: http://kangaroomarch.org.au/location/gunning/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                149.261,-34.791,0
+                149.261,-34.781,0
+                149.271,-34.781,0
+                149.271,-34.791,0
+                149.261,-34.791,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>149.266,-34.786,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Breadalbane</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 20<br/>
+            Date: 24/09/2015<br/>
+            Day of week: Thursday<br/>
+            Break camp: Breadalbane<br/>
+            Route: Breadalbane to Wollondilly River<br/>
+            Stage: 16kms<br/>
+            URL: http://kangaroomarch.org.au/location/breadalbane/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                149.482,-34.794,0
+                149.482,-34.784,0
+                149.492,-34.784,0
+                149.492,-34.794,0
+                149.482,-34.794,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>149.487,-34.789,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Parkesbourne</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 21<br/>
+            Date: 25/09/2015<br/>
+            Day of week: Friday<br/>
+            Break camp: Parkesbourne<br/>
+            Route: Wollondilly River to Goulburn<br/>
+            Stage: 13.5kms<br/>
+            URL: http://kangaroomarch.org.au/location/parkesbourne/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                149.587,-34.753,0
+                149.587,-34.743,0
+                149.597,-34.743,0
+                149.597,-34.753,0
+                149.587,-34.753,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>149.592,-34.748,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Goulburn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 24<br/>
+            Date: 28/09/2015<br/>
+            Day of week: Monday<br/>
+            Break camp: Goulburn<br/>
+            Route: Goulburn to Marulan<br/>
+            Stage: 19kms<br/>
+            URL: http://kangaroomarch.org.au/location/goulburn/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                149.716,-34.774,0
+                149.716,-34.764,0
+                149.726,-34.764,0
+                149.726,-34.774,0
+                149.716,-34.774,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>149.721,-34.769,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Marulan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 25<br/>
+            Date: 29/09/2015<br/>
+            Day of week: Tuesday<br/>
+            Break camp: Marulan<br/>
+            Route: Marulan to Wingello<br/>
+            Stage: 15.3kms<br/>
+            URL: http://kangaroomarch.org.au/location/marulan/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                149.991,-34.713,0
+                149.991,-34.703,0
+                150.001,-34.703,0
+                150.001,-34.713,0
+                149.991,-34.713,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>149.996,-34.708,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Wingello</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 26<br/>
+            Date: 30/09/2015<br/>
+            Day of week: Wednesday<br/>
+            Break camp: Wingello<br/>
+            Route: Wingello to Bundanoon via Penrose<br/>
+            Stage: 16kms<br/>
+            URL: http://kangaroomarch.org.au/location/wingello/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.156,-34.694,0
+                150.156,-34.684,0
+                150.166,-34.684,0
+                150.166,-34.694,0
+                150.156,-34.694,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.161,-34.689,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Bundanoon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 28<br/>
+            Date: 2/10/2015<br/>
+            Day of week: Friday<br/>
+            Break camp: Bundanoon<br/>
+            Route: Bundanoon to Moss Vale via Exeter<br/>
+            Stage: 19kms<br/>
+            URL: http://kangaroomarch.org.au/location/bundanoon/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.295,-34.663,0
+                150.295,-34.653,0
+                150.305,-34.653,0
+                150.305,-34.663,0
+                150.295,-34.663,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.3,-34.658,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Moss Vale</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 31<br/>
+            Date: 5/10/2015<br/>
+            Day of week: Monday<br/>
+            Break camp: Moss Vale<br/>
+            Route: Moss Vale to Mittagong via Bowral<br/>
+            Stage: 16kms<br/>
+            URL: http://kangaroomarch.org.au/location/moss-vale/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.377,-34.552,0
+                150.377,-34.542,0
+                150.387,-34.542,0
+                150.387,-34.552,0
+                150.377,-34.552,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.382,-34.547,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Mittagong</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 32<br/>
+            Date: 6/10/2015<br/>
+            Day of week: Tuesday<br/>
+            Break camp: Mittagong<br/>
+            Route: Mittagong to Hilltop<br/>
+            Stage: 15kms<br/>
+            URL: http://kangaroomarch.org.au/location/mittagong/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.439,-34.452,0
+                150.439,-34.442,0
+                150.449,-34.442,0
+                150.449,-34.452,0
+                150.439,-34.452,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.444,-34.447,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Hilltop</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 33<br/>
+            Date: 7/10/2015<br/>
+            Day of week: Wednesday<br/>
+            Break camp: Hilltop<br/>
+            Route: Hilltop to Thirlmere via Balmoral<br/>
+            Stage: 20kms<br/>
+            URL: http://kangaroomarch.org.au/location/hilltop/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.482,-34.36,0
+                150.482,-34.35,0
+                150.492,-34.35,0
+                150.492,-34.36,0
+                150.482,-34.36,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.487,-34.355,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Thirlmere</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 34<br/>
+            Date: 8/10/2015<br/>
+            Day of week: Thursday<br/>
+            Break camp: Thirlmere<br/>
+            Route: Thirlmere to Camden<br/>
+            Stage: 26.7kms<br/>
+            URL: http://kangaroomarch.org.au/location/thirlmere/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.56,-34.209,0
+                150.56,-34.199,0
+                150.57,-34.199,0
+                150.57,-34.209,0
+                150.56,-34.209,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.565,-34.204,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Camden</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 35<br/>
+            Date: 9/10/2015<br/>
+            Day of week: Friday<br/>
+            Break camp: Camden<br/>
+            Route: Camden to Menangle Park<br/>
+            Stage: <br/>
+            URL: http://kangaroomarch.org.au/location/camden/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.678,-34.066,0
+                150.678,-34.056,0
+                150.688,-34.056,0
+                150.688,-34.066,0
+                150.678,-34.066,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.683,-34.061,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Menangle Park</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 36<br/>
+            Date: 10/10/2015<br/>
+            Day of week: Saturday<br/>
+            Break camp: Menangle Park<br/>
+            Route: Menangle Park to Campbelltown<br/>
+            Stage: <br/>
+            URL: http://kangaroomarch.org.au/location/menangle/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.737,-34.109,0
+                150.737,-34.099,0
+                150.747,-34.099,0
+                150.747,-34.109,0
+                150.737,-34.109,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.742,-34.104,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Campbelltown</name>
+      <description>
+        <![CDATA[
+          <p>
+            Day#: 36<br/>
+            Date: 10/10/2015<br/>
+            Day of week: Saturday<br/>
+            Break camp: Campbelltown<br/>
+            Route: Campbelltown<br/>
+            Stage: <br/>
+            URL: http://kangaroomarch.org.au/location/campbelltown/
+          </p>
+        ]]>
+      </description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                150.811,-34.071,0
+                150.811,-34.061,0
+                150.821,-34.061,0
+                150.821,-34.071,0
+                150.811,-34.071,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Point><coordinates>150.816,-34.066,0</coordinates></Point>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
