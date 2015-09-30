@@ -11,7 +11,7 @@
         <color>1600ffff</color> <!-- yellow 25% -->
       </PolyStyle>
       <LabelStyle>
-        <color>6400ffff</color> <!-- yellow 100% -->
+        <color>640000ff</color> <!-- red 100% -->
         <scale>1</scale>
       </LabelStyle>
       <IconStyle>
