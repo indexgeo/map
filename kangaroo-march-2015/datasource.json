@@ -39,8 +39,8 @@
               "type": "wms",
               "url": "http://geoserver.nationalmap.nicta.com.au/admin_bnds_abs/ows",
               "layers": "admin_bnds:LGA_2011_AUST",
-              "isEnabled": false,
-              "isShown": false,
+              "isEnabled": true,
+              "isShown": true,
               "metadataUrl": "http://geoserver.nationalmap.nicta.com.au/admin_bnds_abs/ows?service=WMS&version=1.3.0&request=GetCapabilities"
             }
           ]
