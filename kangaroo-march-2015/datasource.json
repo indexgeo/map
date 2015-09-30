@@ -1,0 +1,73 @@
+{
+  "catalog": [
+    {
+      "name": "Kangaroo March 2015",
+      "type": "group",
+      "items": [
+        {
+          "name": "Days to break camp and march",
+          "type": "kml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/kangaroo-march-2015/days.kml",
+          "isEnabled": true,
+          "isShown": true,
+          "description": "Each rectangle shows the approximate location where the March will break camp and move on to the next location. Select the rectangle for more summary information, and the link to further detail about this days' march.",
+          "info": [
+            {
+              "name": "Data description",
+              "content": "The data for the map is derived from the\n[Itinerary](http://kangaroomarch.org.au/the-route/itinerary/)."
+            }
+          ],
+          "rectangle": [
+            "147.3",
+            "-35.15",
+            "150.92",
+            "-34.05"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Data Sets",
+      "type": "group",
+      "items": [
+        {
+          "name": "National Boundaries",
+          "type": "group",
+          "items": [
+            {
+              "name": "Local Government Areas",
+              "type": "wms",
+              "url": "http://geoserver.nationalmap.nicta.com.au/admin_bnds_abs/ows",
+              "layers": "admin_bnds:LGA_2011_AUST",
+              "isEnabled": false,
+              "isShown": false,
+              "metadataUrl": "http://geoserver.nationalmap.nicta.com.au/admin_bnds_abs/ows?service=WMS&version=1.3.0&request=GetCapabilities"
+            }
+          ]
+        },
+        {
+          "name": "Surface Water",
+          "type": "group",
+          "items": [
+            {
+              "name": "Stream Network",
+              "type": "wms",
+              "url": "http://geofabric.bom.gov.au/simplefeatures/ows",
+              "layers": "ahgf_shn:AHGFNetworkStream",
+              "isEnabled": false,
+              "isShown": false,
+              "metadataUrl": "http://geofabric.bom.gov.au/simplefeatures/ows?service=WMS&version=1.3.0&request=GetCapabilities"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "homeCamera": {
+    "west": 147.3,
+    "east": 150.92,
+    "north": -34.05,
+    "south": -35.15
+  },
+  "baseMapName": "Positron (Light)"
+}
