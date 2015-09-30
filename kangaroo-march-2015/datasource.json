@@ -54,8 +54,8 @@
               "type": "wms",
               "url": "http://geofabric.bom.gov.au/simplefeatures/ows",
               "layers": "ahgf_shn:AHGFNetworkStream",
-              "isEnabled": false,
-              "isShown": false,
+              "isEnabled": true,
+              "isShown": true,
               "metadataUrl": "http://geofabric.bom.gov.au/simplefeatures/ows?service=WMS&version=1.3.0&request=GetCapabilities"
             }
           ]
