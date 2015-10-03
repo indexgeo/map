@@ -23,6 +23,20 @@
             "150.92",
             "-34.05"
           ]
+        },
+        {
+          "name": "Rally time",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/kangaroo-march-2015/days.czml",
+          "isEnabled": false,
+          "isShown": false,
+          "rectangle": [
+            "147.3",
+            "-35.16",
+            "150.92",
+            "-34.05"
+          ],
+          "description": "The March is preparing to depart this location.\n\nThe green dot is your alarm. It will increase from 07:00am until 08:30am. Gather your friends and get out to visit the March."
         }
       ]
     },
