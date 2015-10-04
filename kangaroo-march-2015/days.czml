@@ -54,6 +54,81 @@
         }
     },
     {
+        "id": "wagga-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-05T08:30:00+10/2015-09-05T17:00:00+10"
+                }
+            ],
+            "text": "18kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    147.352,
+                    -35.124,
+                    0,
+                    147.413,
+                    -35.027,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-05T08:30:00+10/2015-09-05T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                147.3825,
+                -35.075500000000005,
+                0
+            ]
+        }
+    },
+    {
         "id": "brucedale",
         "point": {
             "color": {
@@ -92,6 +167,81 @@
             "cartographicDegrees": [
                 147.413,
                 -35.027,
+                0
+            ]
+        }
+    },
+    {
+        "id": "brucedale-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-06T08:30:00+10/2015-09-06T17:00:00+10"
+                }
+            ],
+            "text": "12kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    147.413,
+                    -35.027,
+                    0,
+                    147.476,
+                    -34.96,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-06T08:30:00+10/2015-09-06T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                147.4445,
+                -34.9935,
                 0
             ]
         }
@@ -140,6 +290,81 @@
         }
     },
     {
+        "id": "harefield-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-07T08:30:00+10/2015-09-07T17:00:00+10"
+                }
+            ],
+            "text": "22kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    147.476,
+                    -34.96,
+                    0,
+                    147.573,
+                    -34.859,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-07T08:30:00+10/2015-09-07T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                147.5245,
+                -34.9095,
+                0
+            ]
+        }
+    },
+    {
         "id": "junee",
         "point": {
             "color": {
@@ -178,6 +403,81 @@
             "cartographicDegrees": [
                 147.573,
                 -34.859,
+                0
+            ]
+        }
+    },
+    {
+        "id": "junee-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-09T08:30:00+10/2015-09-09T17:00:00+10"
+                }
+            ],
+            "text": "24kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    147.573,
+                    -34.859,
+                    0,
+                    147.753,
+                    -34.816,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-09T08:30:00+10/2015-09-09T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                147.663,
+                -34.837500000000006,
                 0
             ]
         }
@@ -226,6 +526,81 @@
         }
     },
     {
+        "id": "illabo-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-10T08:30:00+10/2015-09-10T17:00:00+10"
+                }
+            ],
+            "text": "17.5kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    147.753,
+                    -34.816,
+                    0,
+                    147.852,
+                    -34.756,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-10T08:30:00+10/2015-09-10T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                147.8025,
+                -34.786,
+                0
+            ]
+        }
+    },
+    {
         "id": "bethungra",
         "point": {
             "color": {
@@ -264,6 +639,81 @@
             "cartographicDegrees": [
                 147.852,
                 -34.756,
+                0
+            ]
+        }
+    },
+    {
+        "id": "bethungra-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-11T08:30:00+10/2015-09-11T17:00:00+10"
+                }
+            ],
+            "text": "30kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    147.852,
+                    -34.756,
+                    0,
+                    148.039,
+                    -34.641,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-11T08:30:00+10/2015-09-11T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                147.94549999999998,
+                -34.698499999999996,
                 0
             ]
         }
@@ -312,6 +762,81 @@
         }
     },
     {
+        "id": "cootamundra-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-13T08:30:00+10/2015-09-13T17:00:00+10"
+                }
+            ],
+            "text": "23.4kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.039,
+                    -34.641,
+                    0,
+                    148.16,
+                    -34.53,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-13T08:30:00+10/2015-09-13T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                148.09949999999998,
+                -34.585499999999996,
+                0
+            ]
+        }
+    },
+    {
         "id": "wallendbeen",
         "point": {
             "color": {
@@ -350,6 +875,81 @@
             "cartographicDegrees": [
                 148.16,
                 -34.53,
+                0
+            ]
+        }
+    },
+    {
+        "id": "wallendbeen-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-14T08:30:00+10/2015-09-14T17:00:00+10"
+                }
+            ],
+            "text": "25.3kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.16,
+                    -34.53,
+                    0,
+                    148.358,
+                    -34.546,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-14T08:30:00+10/2015-09-14T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                148.25900000000001,
+                -34.538,
                 0
             ]
         }
@@ -398,6 +998,81 @@
         }
     },
     {
+        "id": "harden-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-15T08:30:00+10/2015-09-15T17:00:00+10"
+                }
+            ],
+            "text": "24.6kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.358,
+                    -34.546,
+                    0,
+                    148.555,
+                    -34.603,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-15T08:30:00+10/2015-09-15T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                148.4565,
+                -34.5745,
+                0
+            ]
+        }
+    },
+    {
         "id": "galong",
         "point": {
             "color": {
@@ -436,6 +1111,81 @@
             "cartographicDegrees": [
                 148.555,
                 -34.603,
+                0
+            ]
+        }
+    },
+    {
+        "id": "galong-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-16T08:30:00+10/2015-09-16T17:00:00+10"
+                }
+            ],
+            "text": "13kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.555,
+                    -34.603,
+                    0,
+                    148.635,
+                    -34.674,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-16T08:30:00+10/2015-09-16T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                148.595,
+                -34.6385,
                 0
             ]
         }
@@ -484,6 +1234,81 @@
         }
     },
     {
+        "id": "binalong-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-17T08:30:00+10/2015-09-17T17:00:00+10"
+                }
+            ],
+            "text": "23kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.635,
+                    -34.674,
+                    0,
+                    148.822,
+                    -34.771,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-17T08:30:00+10/2015-09-17T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                148.7285,
+                -34.7225,
+                0
+            ]
+        }
+    },
+    {
         "id": "bowning",
         "point": {
             "color": {
@@ -522,6 +1347,81 @@
             "cartographicDegrees": [
                 148.822,
                 -34.771,
+                0
+            ]
+        }
+    },
+    {
+        "id": "bowning-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-18T08:30:00+10/2015-09-18T17:00:00+10"
+                }
+            ],
+            "text": "21kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.822,
+                    -34.771,
+                    0,
+                    148.923,
+                    -34.842,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-18T08:30:00+10/2015-09-18T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                148.8725,
+                -34.8065,
                 0
             ]
         }
@@ -570,6 +1470,81 @@
         }
     },
     {
+        "id": "yass-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-21T08:30:00+10/2015-09-21T17:00:00+10"
+                }
+            ],
+            "text": "20kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    148.923,
+                    -34.842,
+                    0,
+                    149.083,
+                    -34.785,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-21T08:30:00+10/2015-09-21T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                149.003,
+                -34.8135,
+                0
+            ]
+        }
+    },
+    {
         "id": "jerrawa",
         "point": {
             "color": {
@@ -608,6 +1583,81 @@
             "cartographicDegrees": [
                 149.083,
                 -34.785,
+                0
+            ]
+        }
+    },
+    {
+        "id": "jerrawa-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-22T08:30:00+10/2015-09-22T17:00:00+10"
+                }
+            ],
+            "text": "26kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    149.083,
+                    -34.785,
+                    0,
+                    149.266,
+                    -34.786,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-22T08:30:00+10/2015-09-22T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                149.1745,
+                -34.7855,
                 0
             ]
         }
@@ -656,6 +1706,81 @@
         }
     },
     {
+        "id": "gunning-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-23T08:30:00+10/2015-09-23T17:00:00+10"
+                }
+            ],
+            "text": "25kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    149.266,
+                    -34.786,
+                    0,
+                    149.487,
+                    -34.789,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-23T08:30:00+10/2015-09-23T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                149.3765,
+                -34.7875,
+                0
+            ]
+        }
+    },
+    {
         "id": "breadalbane",
         "point": {
             "color": {
@@ -694,6 +1819,81 @@
             "cartographicDegrees": [
                 149.487,
                 -34.789,
+                0
+            ]
+        }
+    },
+    {
+        "id": "breadalbane-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-24T08:30:00+10/2015-09-24T17:00:00+10"
+                }
+            ],
+            "text": "16kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    149.487,
+                    -34.789,
+                    0,
+                    149.592,
+                    -34.748,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-24T08:30:00+10/2015-09-24T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                149.5395,
+                -34.7685,
                 0
             ]
         }
@@ -742,6 +1942,81 @@
         }
     },
     {
+        "id": "parkesbourne-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-25T08:30:00+10/2015-09-25T17:00:00+10"
+                }
+            ],
+            "text": "13.5kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    149.592,
+                    -34.748,
+                    0,
+                    149.721,
+                    -34.769,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-25T08:30:00+10/2015-09-25T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                149.6565,
+                -34.7585,
+                0
+            ]
+        }
+    },
+    {
         "id": "goulburn",
         "point": {
             "color": {
@@ -780,6 +2055,81 @@
             "cartographicDegrees": [
                 149.721,
                 -34.769,
+                0
+            ]
+        }
+    },
+    {
+        "id": "goulburn-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-28T08:30:00+10/2015-09-28T17:00:00+10"
+                }
+            ],
+            "text": "19kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    149.721,
+                    -34.769,
+                    0,
+                    149.996,
+                    -34.708,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-28T08:30:00+10/2015-09-28T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                149.8585,
+                -34.7385,
                 0
             ]
         }
@@ -828,6 +2178,81 @@
         }
     },
     {
+        "id": "marulan-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-29T08:30:00+10/2015-09-29T17:00:00+10"
+                }
+            ],
+            "text": "15.3kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    149.996,
+                    -34.708,
+                    0,
+                    150.161,
+                    -34.689,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-29T08:30:00+10/2015-09-29T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.07850000000002,
+                -34.698499999999996,
+                0
+            ]
+        }
+    },
+    {
         "id": "wingello",
         "point": {
             "color": {
@@ -866,6 +2291,81 @@
             "cartographicDegrees": [
                 150.161,
                 -34.689,
+                0
+            ]
+        }
+    },
+    {
+        "id": "wingello-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-30T08:30:00+10/2015-09-30T17:00:00+10"
+                }
+            ],
+            "text": "16kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.161,
+                    -34.689,
+                    0,
+                    150.3,
+                    -34.658,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-09-30T08:30:00+10/2015-09-30T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.2305,
+                -34.673500000000004,
                 0
             ]
         }
@@ -914,6 +2414,81 @@
         }
     },
     {
+        "id": "bundanoon-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-02T08:30:00+10/2015-10-02T17:00:00+10"
+                }
+            ],
+            "text": "19kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.3,
+                    -34.658,
+                    0,
+                    150.382,
+                    -34.547,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-02T08:30:00+10/2015-10-02T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.341,
+                -34.6025,
+                0
+            ]
+        }
+    },
+    {
         "id": "moss-vale",
         "point": {
             "color": {
@@ -952,6 +2527,81 @@
             "cartographicDegrees": [
                 150.382,
                 -34.547,
+                0
+            ]
+        }
+    },
+    {
+        "id": "moss-vale-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-05T08:30:00+10/2015-10-05T17:00:00+10"
+                }
+            ],
+            "text": "16kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.382,
+                    -34.547,
+                    0,
+                    150.444,
+                    -34.447,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-05T08:30:00+10/2015-10-05T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.413,
+                -34.497,
                 0
             ]
         }
@@ -1000,6 +2650,81 @@
         }
     },
     {
+        "id": "mittagong-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-06T08:30:00+10/2015-10-06T17:00:00+10"
+                }
+            ],
+            "text": "15kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.444,
+                    -34.447,
+                    0,
+                    150.487,
+                    -34.355,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-06T08:30:00+10/2015-10-06T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.4655,
+                -34.400999999999996,
+                0
+            ]
+        }
+    },
+    {
         "id": "hilltop",
         "point": {
             "color": {
@@ -1038,6 +2763,81 @@
             "cartographicDegrees": [
                 150.487,
                 -34.355,
+                0
+            ]
+        }
+    },
+    {
+        "id": "hilltop-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-07T08:30:00+10/2015-10-07T17:00:00+10"
+                }
+            ],
+            "text": "20kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.487,
+                    -34.355,
+                    0,
+                    150.565,
+                    -34.204,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-07T08:30:00+10/2015-10-07T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.526,
+                -34.2795,
                 0
             ]
         }
@@ -1086,6 +2886,81 @@
         }
     },
     {
+        "id": "thirlmere-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-08T08:30:00+10/2015-10-08T17:00:00+10"
+                }
+            ],
+            "text": "26.7kms"
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.565,
+                    -34.204,
+                    0,
+                    150.683,
+                    -34.061,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-08T08:30:00+10/2015-10-08T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.624,
+                -34.1325,
+                0
+            ]
+        }
+    },
+    {
         "id": "camden",
         "point": {
             "color": {
@@ -1129,6 +3004,81 @@
         }
     },
     {
+        "id": "camden-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-09T08:30:00+10/2015-10-09T17:00:00+10"
+                }
+            ],
+            "text": ""
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.683,
+                    -34.061,
+                    0,
+                    150.742,
+                    -34.104,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-09T08:30:00+10/2015-10-09T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.71249999999998,
+                -34.082499999999996,
+                0
+            ]
+        }
+    },
+    {
         "id": "menangle",
         "point": {
             "color": {
@@ -1167,6 +3117,81 @@
             "cartographicDegrees": [
                 150.742,
                 -34.104,
+                0
+            ]
+        }
+    },
+    {
+        "id": "menangle-route",
+        "label": {
+            "fillColor": {
+                "rgba": [
+                    255,
+                    0,
+                    255,
+                    255
+                ]
+            },
+            "labelStyle": "FILL_AND_OUTLINE",
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "scale": 0.6,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-10T08:30:00+10/2015-10-10T17:00:00+10"
+                }
+            ],
+            "text": ""
+        },
+        "polyline": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    }
+                }
+            },
+            "positions": {
+                "cartographicDegrees": [
+                    150.742,
+                    -34.104,
+                    0,
+                    150.816,
+                    -34.066,
+                    0
+                ]
+            },
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2015-09-03T06:00+10/2015-10-10T17:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-10-10T08:30:00+10/2015-10-10T17:00:00+10"
+                }
+            ]
+        },
+        "position": {
+            "cartographicDegrees": [
+                150.779,
+                -34.085,
                 0
             ]
         }
