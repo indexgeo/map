@@ -6,8 +6,8 @@
       "items": [
         {
           "name": "Days to break camp and march",
-          "type": "kml",
-          "url": "https://raw.githubusercontent.com/indexgeo/map/master/kangaroo-march-2015/days.kml",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/kangaroo-march-2015/sites.czml",
           "isEnabled": true,
           "isShown": true,
           "description": "Each rectangle shows the approximate location where the March will break camp and move on to the next location. Select the rectangle for more summary information, and the link to further detail about this days' march.",
