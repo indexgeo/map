@@ -1,0 +1,66 @@
+{
+  "catalog": [
+    {
+      "name": "Denmark Community Windfarm",
+      "type": "group",
+      "items": [
+        {
+          "name": "Site",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.czml",
+          "isEnabled": true,
+          "isShown": true,
+          "description": "The rectangle shows the approximate location. Select the rectangle for more summary information, and the link to further detail.",
+          "info": [
+            {
+              "name": "Data description",
+              "content": "The data for the map is derived from the\n[location description](http://www.dcw.org.au/location.html)."
+            }
+          ],
+          "rectangle": [
+            "147.3",
+            "-35.15",
+            "150.92",
+            "-34.05"
+          ],
+          "isLegendVisible": false
+        }
+      ]
+    },
+    {
+      "name": "National Data Sets",
+      "type": "group",
+      "items": [
+        {
+          "name": "Electricity Infrastructure",
+          "type": "group",
+          "items": [
+            {
+              "name": "Transmission",
+              "type": "group",
+              "items": [
+                {
+                  "name": "Distance to Transmission Lines",
+                  "type": "wms",
+                  "url": "http://www.ga.gov.au/gis/services/energy/ASEIS_Features/MapServer/WMSServer",
+                  "layers": "Distance To Translines 10km",
+                  "metadataUrl": "http://www.ga.gov.au/gis/services/energy/ASEIS_Features/MapServer/WMSServer?service=WMS&version=1.3.0&request=GetCapabilities",
+                  "isEnabled": true,
+                  "isShown": true,
+                  "isLegendVisible": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "homeCamera": {
+    "west": 117.05,
+    "east": 117.95,
+    "north": -34.66,
+    "south": -35.2
+  },
+  "baseMapName": "Positron (Light)"
+}
