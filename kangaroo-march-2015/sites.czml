@@ -35,6 +35,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 205,
             "material": {
                 "solidColor": {
                     "color": {
@@ -85,7 +86,7 @@
             "cartographicDegrees": [
                 147.352,
                 -35.124,
-                0
+                205
             ]
         }
     },
@@ -121,6 +122,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 260,
             "material": {
                 "solidColor": {
                     "color": {
@@ -171,7 +173,7 @@
             "cartographicDegrees": [
                 147.413,
                 -35.027,
-                0
+                260
             ]
         }
     },
@@ -207,6 +209,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 255,
             "material": {
                 "solidColor": {
                     "color": {
@@ -257,7 +260,7 @@
             "cartographicDegrees": [
                 147.476,
                 -34.96,
-                0
+                255
             ]
         }
     },
@@ -293,6 +296,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 300,
             "material": {
                 "solidColor": {
                     "color": {
@@ -343,7 +347,7 @@
             "cartographicDegrees": [
                 147.573,
                 -34.859,
-                0
+                300
             ]
         }
     },
@@ -379,6 +383,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 280,
             "material": {
                 "solidColor": {
                     "color": {
@@ -429,7 +434,7 @@
             "cartographicDegrees": [
                 147.753,
                 -34.816,
-                0
+                280
             ]
         }
     },
@@ -465,6 +470,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 315,
             "material": {
                 "solidColor": {
                     "color": {
@@ -515,7 +521,7 @@
             "cartographicDegrees": [
                 147.852,
                 -34.756,
-                0
+                315
             ]
         }
     },
@@ -551,6 +557,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 355,
             "material": {
                 "solidColor": {
                     "color": {
@@ -601,7 +608,7 @@
             "cartographicDegrees": [
                 148.039,
                 -34.641,
-                0
+                355
             ]
         }
     },
@@ -637,6 +644,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 475,
             "material": {
                 "solidColor": {
                     "color": {
@@ -687,7 +695,7 @@
             "cartographicDegrees": [
                 148.16,
                 -34.53,
-                0
+                475
             ]
         }
     },
@@ -723,6 +731,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 410,
             "material": {
                 "solidColor": {
                     "color": {
@@ -773,7 +782,7 @@
             "cartographicDegrees": [
                 148.358,
                 -34.546,
-                0
+                410
             ]
         }
     },
@@ -809,6 +818,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 530,
             "material": {
                 "solidColor": {
                     "color": {
@@ -859,7 +869,7 @@
             "cartographicDegrees": [
                 148.555,
                 -34.603,
-                0
+                530
             ]
         }
     },
@@ -895,6 +905,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 505,
             "material": {
                 "solidColor": {
                     "color": {
@@ -945,7 +956,7 @@
             "cartographicDegrees": [
                 148.635,
                 -34.674,
-                0
+                505
             ]
         }
     },
@@ -981,6 +992,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 585,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1031,7 +1043,7 @@
             "cartographicDegrees": [
                 148.822,
                 -34.771,
-                0
+                585
             ]
         }
     },
@@ -1067,6 +1079,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 560,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1117,7 +1130,7 @@
             "cartographicDegrees": [
                 148.923,
                 -34.842,
-                0
+                560
             ]
         }
     },
@@ -1153,6 +1166,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 620,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1203,7 +1217,7 @@
             "cartographicDegrees": [
                 149.083,
                 -34.785,
-                0
+                620
             ]
         }
     },
@@ -1239,6 +1253,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 580,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1289,7 +1304,7 @@
             "cartographicDegrees": [
                 149.266,
                 -34.786,
-                0
+                580
             ]
         }
     },
@@ -1325,6 +1340,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 720,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1375,7 +1391,7 @@
             "cartographicDegrees": [
                 149.487,
                 -34.789,
-                0
+                720
             ]
         }
     },
@@ -1411,6 +1427,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 665,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1461,7 +1478,7 @@
             "cartographicDegrees": [
                 149.592,
                 -34.748,
-                0
+                665
             ]
         }
     },
@@ -1497,6 +1514,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 650,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1547,7 +1565,7 @@
             "cartographicDegrees": [
                 149.721,
                 -34.769,
-                0
+                650
             ]
         }
     },
@@ -1583,6 +1601,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 665,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1633,7 +1652,7 @@
             "cartographicDegrees": [
                 149.996,
                 -34.708,
-                0
+                665
             ]
         }
     },
@@ -1669,6 +1688,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 700,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1719,7 +1739,7 @@
             "cartographicDegrees": [
                 150.161,
                 -34.689,
-                0
+                700
             ]
         }
     },
@@ -1755,6 +1775,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 700,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1805,7 +1826,7 @@
             "cartographicDegrees": [
                 150.3,
                 -34.658,
-                0
+                700
             ]
         }
     },
@@ -1841,6 +1862,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 705,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1891,7 +1913,7 @@
             "cartographicDegrees": [
                 150.382,
                 -34.547,
-                0
+                705
             ]
         }
     },
@@ -1927,6 +1949,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 650,
             "material": {
                 "solidColor": {
                     "color": {
@@ -1977,7 +2000,7 @@
             "cartographicDegrees": [
                 150.444,
                 -34.447,
-                0
+                650
             ]
         }
     },
@@ -2013,6 +2036,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 665,
             "material": {
                 "solidColor": {
                     "color": {
@@ -2063,7 +2087,7 @@
             "cartographicDegrees": [
                 150.487,
                 -34.355,
-                0
+                665
             ]
         }
     },
@@ -2099,6 +2123,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 310,
             "material": {
                 "solidColor": {
                     "color": {
@@ -2149,7 +2174,7 @@
             "cartographicDegrees": [
                 150.565,
                 -34.204,
-                0
+                310
             ]
         }
     },
@@ -2185,6 +2210,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 85,
             "material": {
                 "solidColor": {
                     "color": {
@@ -2235,7 +2261,7 @@
             "cartographicDegrees": [
                 150.683,
                 -34.061,
-                0
+                85
             ]
         }
     },
@@ -2271,6 +2297,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 95,
             "material": {
                 "solidColor": {
                     "color": {
@@ -2321,7 +2348,7 @@
             "cartographicDegrees": [
                 150.742,
                 -34.104,
-                0
+                95
             ]
         }
     },
@@ -2357,6 +2384,7 @@
             "fill": {
                 "boolean": true
             },
+            "height": 110,
             "material": {
                 "solidColor": {
                     "color": {
@@ -2407,7 +2435,7 @@
             "cartographicDegrees": [
                 150.816,
                 -34.066,
-                0
+                110
             ]
         }
     }
