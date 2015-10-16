@@ -1,0 +1,378 @@
+[
+    {
+        "clock": {
+            "currentTime": "2014-08-01T00:00:00+10",
+            "interval": "2014-02-01T00:00:00+10/2015-10-01T00:00:00+10",
+            "multiplier": 300000,
+            "range": "CLAMPED",
+            "step": "SYSTEM_CLOCK_MULTIPLIER"
+        },
+        "id": "document",
+        "version": "1.0"
+    },
+    {
+        "ellipse": {
+            "extrudedHeight": {
+                "epoch": "2014-08-01T00:00:00+10",
+                "number": [
+                    0,
+                    30,
+                    2592000,
+                    4030,
+                    5184000,
+                    25430,
+                    7776000,
+                    32430,
+                    10368000,
+                    40030,
+                    12960000,
+                    36830,
+                    15552000,
+                    38030,
+                    18144000,
+                    27430,
+                    20736000,
+                    23030,
+                    23328000,
+                    8630,
+                    25920000,
+                    11830,
+                    28512000,
+                    5830,
+                    31104000,
+                    11630,
+                    33696000,
+                    17430,
+                    36288000,
+                    25630,
+                    38880000,
+                    25630
+                ]
+            },
+            "fill": {
+                "boolean": true
+            },
+            "height": 30,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "epoch": "2014-08-01T00:00:00+10",
+                        "rgba": [
+                            0,
+                            255,
+                            94,
+                            51,
+                            191,
+                            2592000,
+                            255,
+                            192,
+                            120,
+                            191,
+                            5184000,
+                            255,
+                            228,
+                            206,
+                            191,
+                            10368000,
+                            168,
+                            197,
+                            255,
+                            191,
+                            18144000,
+                            255,
+                            228,
+                            206,
+                            191,
+                            23328000,
+                            255,
+                            192,
+                            120,
+                            191,
+                            33696000,
+                            255,
+                            228,
+                            206,
+                            191,
+                            38880000,
+                            255,
+                            228,
+                            206,
+                            191
+                        ]
+                    }
+                }
+            },
+            "outline": {
+                "boolean": false
+            },
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    32
+                ]
+            },
+            "rotation": 0,
+            "semiMajorAxis": 200.0,
+            "semiMinorAxis": 100.0,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2014-02-01T00:00:00+10/2015-10-01T00:00:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2014-08-01T00:00:00+10/2015-10-01T00:00:00+10"
+                }
+            ]
+        },
+        "id": "repower-shoalhaven-1-output-3d",
+        "position": {
+            "cartographicDegrees": [
+                150.738,
+                -34.849,
+                30
+            ]
+        }
+    },
+    {
+        "ellipse": {
+            "extrudedHeight": {
+                "epoch": "2014-02-01T00:00:00+10",
+                "number": [
+                    0,
+                    97,
+                    2592000,
+                    4097,
+                    54432000,
+                    4097
+                ]
+            },
+            "fill": {
+                "boolean": true
+            },
+            "height": 97,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "epoch": "2014-02-01T00:00:00+10",
+                        "rgba": [
+                            0,
+                            255,
+                            94,
+                            51,
+                            191,
+                            2592000,
+                            255,
+                            94,
+                            51,
+                            191,
+                            54432000,
+                            255,
+                            94,
+                            51,
+                            191
+                        ]
+                    }
+                }
+            },
+            "outline": {
+                "boolean": false
+            },
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    32
+                ]
+            },
+            "rotation": 0,
+            "semiMajorAxis": 200.0,
+            "semiMinorAxis": 100.0,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2014-02-01T00:00:00+10/2015-10-01T00:00:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2014-02-01T00:00:00+10/2015-10-01T00:00:00+10"
+                }
+            ]
+        },
+        "id": "repower-shoalhaven-0-output-3d",
+        "position": {
+            "cartographicDegrees": [
+                150.52925,
+                -34.73475,
+                97
+            ]
+        }
+    },
+    {
+        "ellipse": {
+            "extrudedHeight": {
+                "epoch": "2015-08-01T00:00:00+10",
+                "number": [
+                    0,
+                    40,
+                    2592000,
+                    4040,
+                    5184000,
+                    20040,
+                    7776000,
+                    20040
+                ]
+            },
+            "fill": {
+                "boolean": true
+            },
+            "height": 40,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "epoch": "2015-08-01T00:00:00+10",
+                        "rgba": [
+                            0,
+                            255,
+                            94,
+                            51,
+                            191,
+                            2592000,
+                            255,
+                            94,
+                            51,
+                            191,
+                            5184000,
+                            255,
+                            192,
+                            120,
+                            191,
+                            7776000,
+                            255,
+                            192,
+                            120,
+                            191
+                        ]
+                    }
+                }
+            },
+            "outline": {
+                "boolean": false
+            },
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    32
+                ]
+            },
+            "rotation": 0,
+            "semiMajorAxis": 200.0,
+            "semiMinorAxis": 100.0,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2014-02-01T00:00:00+10/2015-10-01T00:00:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-08-01T00:00:00+10/2015-10-01T00:00:00+10"
+                }
+            ]
+        },
+        "id": "repower-shoalhaven-2a-output-3d",
+        "position": {
+            "cartographicDegrees": [
+                150.853,
+                -34.43925,
+                40
+            ]
+        }
+    },
+    {
+        "ellipse": {
+            "extrudedHeight": {
+                "epoch": "2015-08-01T00:00:00+10",
+                "number": [
+                    0,
+                    92,
+                    2592000,
+                    4092,
+                    5184000,
+                    10092,
+                    7776000,
+                    10092
+                ]
+            },
+            "fill": {
+                "boolean": true
+            },
+            "height": 92,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "epoch": "2015-08-01T00:00:00+10",
+                        "rgba": [
+                            0,
+                            255,
+                            94,
+                            51,
+                            191,
+                            2592000,
+                            255,
+                            94,
+                            51,
+                            191,
+                            5184000,
+                            255,
+                            192,
+                            120,
+                            191,
+                            7776000,
+                            255,
+                            192,
+                            120,
+                            191
+                        ]
+                    }
+                }
+            },
+            "outline": {
+                "boolean": false
+            },
+            "outlineColor": {
+                "rgba": [
+                    0,
+                    0,
+                    0,
+                    32
+                ]
+            },
+            "rotation": 0,
+            "semiMajorAxis": 200.0,
+            "semiMinorAxis": 100.0,
+            "show": [
+                {
+                    "boolean": false,
+                    "interval": "2014-02-01T00:00:00+10/2015-10-01T00:00:00+10"
+                },
+                {
+                    "boolean": true,
+                    "interval": "2015-08-01T00:00:00+10/2015-10-01T00:00:00+10"
+                }
+            ]
+        },
+        "id": "repower-shoalhaven-2b-output-3d",
+        "position": {
+            "cartographicDegrees": [
+                150.56675,
+                -34.8605,
+                92
+            ]
+        }
+    }
+]
