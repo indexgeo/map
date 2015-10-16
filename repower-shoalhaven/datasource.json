@@ -1,0 +1,59 @@
+{
+  "catalog": [
+    {
+      "name": "Repower Shoalhaven",
+      "type": "group",
+      "items": [
+        {
+          "name": "Sites",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/sites.czml",
+          "isEnabled": true,
+          "isShown": true,
+          "description": "The rectangle shows the approximate location. Select the rectangle for more summary information, and the link to further detail.",
+          "info": [
+            {
+              "name": "Data description",
+              "content": "The location is deliberately displayed as an approximate rectangle."
+            }
+          ],
+          "rectangle": [
+            "150.25",
+            "-35.0",
+            "151.0",
+            "-34.40"
+          ],
+          "isLegendVisible": false
+        },
+        {
+          "name": "Output",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/output.czml",
+          "isEnabled": false,
+          "isShown": false,
+          "description": "The glowing circles are an approximate indicator of each site's monthly output statistics. When each site's installation comes online, its circle has the minimum radius. For each month the radius will grow and shrink, with its maximum radius being the sunniest summer month. The colour scale indicates the relative output compared to other Repower Shoalhaven projects. It varies from a dull red, up through orange-yellow, to the maximum bluish-white.",
+          "info": [
+            {
+              "name": "Data description",
+              "content": "The data values are relative to each site, and are an approximate representation of the monthly output values available at each site's http://www.suntrol-portal.com/ monitor."
+            }
+          ],
+          "rectangle": [
+            "150.25",
+            "-35.0",
+            "151.0",
+            "-34.40"
+          ],
+          "isLegendVisible": false
+        }
+      ]
+    }
+  ],
+  "homeCamera": {
+    "west": 150.25,
+    "east": 151,
+    "north": -34.4,
+    "south": -35
+  },
+  "baseMapName": "Positron (Light)"
+}
