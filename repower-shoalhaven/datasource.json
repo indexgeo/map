@@ -45,6 +45,27 @@
             "-34.40"
           ],
           "isLegendVisible": false
+        },
+        {
+          "name": "Output pillars",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/output-pillars.czml",
+          "isEnabled": false,
+          "isShown": false,
+          "description": "The glowing extruded ellipses are an approximate indicator of each site's monthly output statistics. When each site's installation comes online, its pillar has the minimum height. For each month the height will grow and shrink, with its maximum height being the sunniest summer month. The colour scale indicates the relative output compared to other Repower Shoalhaven projects. It varies from a dull red, up through orange-yellow, to the maximum bluish-white.",
+          "info": [
+            {
+              "name": "Data description",
+              "content": "The data values are relative to each site, and are an approximate representation of the monthly output values available at each site's http://www.suntrol-portal.com/ monitor."
+            }
+          ],
+          "rectangle": [
+            "150.25",
+            "-35.0",
+            "151.0",
+            "-34.40"
+          ],
+          "isLegendVisible": false
         }
       ]
     }
