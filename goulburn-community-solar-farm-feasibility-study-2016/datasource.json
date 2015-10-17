@@ -1,0 +1,38 @@
+{
+  "catalog": [
+    {
+      "name": "Goulburn Community Solar Farm Feasibility Study 2016",
+      "type": "group",
+      "items": [
+        {
+          "name": "Site",
+          "type": "czml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/goulburn-community-solar-farm-feasibility-study-2016/site.czml",
+          "isEnabled": true,
+          "isShown": true,
+          "description": "The rectangle shows the approximate location. Select the rectangle for more summary information, and links to further detail.",
+          "info": [
+            {
+              "name": "Data description",
+              "content": "The location is deliberately displayed as an approximate rectangle."
+            }
+          ],
+          "rectangle": [
+            "149.73",
+            "-34.755",
+            "149.745",
+            "-34.74"
+          ],
+          "isLegendVisible": false
+        }
+      ]
+    }
+  ],
+  "homeCamera": {
+    "west": 149.7,
+    "east": 149.78,
+    "north": -34.72,
+    "south": -34.78
+  },
+  "baseMapName": "Positron (Light)"
+}
