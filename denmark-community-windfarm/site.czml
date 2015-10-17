@@ -44,6 +44,7 @@
           }
         }
       },
+      "height": 80,
       "fill":{  
         "boolean":true
       },
@@ -85,7 +86,7 @@
       "cartographicDegrees":[  
         117.3225,
         -35.039,
-        0
+        80
       ]
     }
   }
