@@ -10,7 +10,7 @@
           "url": "https://raw.githubusercontent.com/indexgeo/map/master/goulburn-community-solar-farm-feasibility-study-2016/site.czml",
           "isEnabled": true,
           "isShown": true,
-          "description": "The rectangle shows the approximate location. Select the rectangle for more summary information, and links to further detail.",
+          "description": "<p>The rectangle shows the approximate location. Select the rectangle for more summary information, and the links to further detail.</p>",
           "info": [
             {
               "name": "Data description",

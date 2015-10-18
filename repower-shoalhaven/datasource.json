@@ -10,7 +10,7 @@
           "url": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/sites.czml",
           "isEnabled": true,
           "isShown": true,
-          "description": "The rectangle shows the approximate location. Select the rectangle for more summary information, and the link to further detail.",
+          "description": "<p>The rectangle shows the approximate location. Select the rectangle for more summary information, and the links to further detail.</p>",
           "info": [
             {
               "name": "Data description",

@@ -10,11 +10,11 @@
           "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.czml",
           "isEnabled": true,
           "isShown": true,
-          "description": "The rectangle shows the approximate location. Select the rectangle for more summary information, and the link to further detail.",
+          "description": "<p>The rectangle shows the approximate location. Select the rectangle for more summary information, and the links to further detail.</p>",
           "info": [
             {
               "name": "Data description",
-              "content": "The data for the map is derived from the\n[location description](http://www.dcw.org.au/location.html)."
+              "content": "The location is deliberately displayed as an approximate rectangle.\nThe data for the map is derived from the\n[location description](http://www.dcw.org.au/location.html)."
             }
           ],
           "rectangle": [
