@@ -44,7 +44,8 @@
             "151.0",
             "-34.40"
           ],
-          "isLegendVisible": false
+          "isLegendVisible": false,
+          "legendUrl": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/legend-output.png"
         },
         {
           "name": "Output pillars",
@@ -65,7 +66,8 @@
             "151.0",
             "-34.40"
           ],
-          "isLegendVisible": false
+          "isLegendVisible": false,
+          "legendUrl": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/legend-output.png"
         }
       ]
     }
