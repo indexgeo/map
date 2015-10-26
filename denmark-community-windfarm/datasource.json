@@ -6,8 +6,8 @@
       "items": [
         {
           "name": "Site",
-          "type": "czml",
-          "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.czml",
+          "type": "kml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.kml",
           "isEnabled": true,
           "isShown": true,
           "description": "<p>The rectangle shows the approximate location. Select the rectangle for more summary information, and the links to further detail.</p>",
