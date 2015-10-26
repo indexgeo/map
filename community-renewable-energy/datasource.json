@@ -48,8 +48,8 @@
         },
         {
           "name": "Denmark Community Windfarm",
-          "type": "czml",
-          "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.czml",
+          "type": "kml",
+          "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.kml",
           "isEnabled": true,
           "isShown": true,
           "description": "<p>The rectangle shows the approximate location. Select the rectangle for more summary information, and the links to further detail.</p><p>See its <a href='http://www.nationalmap.gov.au/#share=8yHd9U'>full map</a> and the <a href='http://www.indexgeo.com.au/map/denmark-community-windfarm/'>explanation</a></p>",
@@ -60,10 +60,10 @@
             }
           ],
           "rectangle": [
-            "147.3",
-            "-35.15",
-            "150.92",
-            "-34.05"
+            "117.31",
+            "-35.05",
+            "117.33",
+            "-35.03"
           ],
           "isLegendVisible": false
         }
