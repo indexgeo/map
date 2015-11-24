@@ -68,7 +68,8 @@
           "isLegendVisible": false
         }
       ],
-      "description": "This is an aggregated map showing the sites of some Australian community renewable energy projects. It utilises their 'Site' layer only. Select the 'Info' for each group of projects for further description and direct link to their specific full map, which may have additional layers."
+      "description": "This is an aggregated map showing the sites of some Australian community renewable energy projects. It utilises their 'Site' layer only. Select the 'Info' for each group of projects for further description and direct link to their specific full map, which may have additional layers.",
+      "isOpen": true
     }
   ],
   "homeCamera": {
@@ -77,5 +78,5 @@
     "north": -9,
     "south": -44
   },
-  "baseMapName": "Positron (Light)"
+  "baseMapName": "Dark Matter"
 }
