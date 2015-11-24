@@ -69,7 +69,8 @@
           "isLegendVisible": false,
           "legendUrl": "https://raw.githubusercontent.com/indexgeo/map/master/repower-shoalhaven/legend-output.png"
         }
-      ]
+      ],
+      "isOpen": true
     }
   ],
   "homeCamera": {
