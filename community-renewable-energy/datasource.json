@@ -1,7 +1,7 @@
 {
   "catalog": [
     {
-      "name": "Some Australian community renewable energy project",
+      "name": "Some Australian community renewable energy projects",
       "type": "group",
       "items": [
         {
@@ -70,34 +70,6 @@
       ],
       "description": "This is an aggregated map showing the sites of some Australian community renewable energy projects. It utilises their 'Site' layer only. Select the 'Info' for each group of projects for further description and direct link to their specific full map, which may have additional layers.",
       "isOpen": true
-    },
-    {
-      "name": "another group",
-      "type": "group",
-      "items": [
-        {
-          "name": "Denmark Community Windfarm 2",
-          "type": "czml",
-          "url": "https://raw.githubusercontent.com/indexgeo/map/master/denmark-community-windfarm/site.czml",
-          "isEnabled": true,
-          "isShown": true,
-          "description": "<p>The rectangle shows the approximate location. Select the rectangle for more summary information, and the links to further detail.</p><p>See its <a href='http://www.nationalmap.gov.au/#share=8yHd9U'>full map</a> and the <a href='http://www.indexgeo.com.au/map/denmark-community-windfarm/'>explanation</a></p>",
-          "info": [
-            {
-              "name": "Data description",
-              "content": "The location is deliberately displayed as an approximate rectangle."
-            }
-          ],
-          "rectangle": [
-            "117.31",
-            "-35.05",
-            "117.33",
-            "-35.03"
-          ],
-          "isLegendVisible": false
-        }
-      ],
-      "isOpen": false
     }
   ],
   "homeCamera": {
