@@ -25,7 +25,8 @@
           ],
           "isLegendVisible": false
         }
-      ]
+      ],
+      "isOpen": true
     },
     {
       "name": "National Data Sets",
