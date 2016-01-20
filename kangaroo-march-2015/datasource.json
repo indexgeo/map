@@ -18,10 +18,10 @@
             }
           ],
           "rectangle": [
-            "147.3",
-            "-35.15",
-            "150.92",
-            "-34.05"
+            147.3,
+            -35.15,
+            150.92,
+            -34.05
           ],
           "isLegendVisible": false
         },
@@ -32,10 +32,10 @@
           "isEnabled": false,
           "isShown": false,
           "rectangle": [
-            "147.3",
-            "-35.15",
-            "150.92",
-            "-34.05"
+            147.3,
+            -35.15,
+            150.92,
+            -34.05
           ],
           "description": "The March is preparing to depart this location.\n\nThe green dot is your alarm. It will increase from 07:00am until 08:30am. Gather your friends and get out to visit the March.\n\nThe grey dot is the camp, overnight or for a few days. The red line joins to the next location, and indicates the length of the stage for this day.",
           "isLegendVisible": false
