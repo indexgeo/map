@@ -29,8 +29,8 @@
           "name": "Rally time",
           "type": "czml",
           "url": "https://raw.githubusercontent.com/indexgeo/map/master/kangaroo-march-2015/days.czml",
-          "isEnabled": false,
-          "isShown": false,
+          "isEnabled": true,
+          "isShown": true,
           "rectangle": [
             147.3,
             -35.15,
