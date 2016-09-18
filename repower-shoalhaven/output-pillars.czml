@@ -3,7 +3,7 @@
         "clock": {
             "currentTime": "2014-08-01T00:00:00+10",
             "interval": "2014-02-01T00:00:00+10/2016-09-01T00:00:00+10",
-            "multiplier": 300000,
+            "multiplier": 500000,
             "range": "CLAMPED",
             "step": "SYSTEM_CLOCK_MULTIPLIER"
         },
