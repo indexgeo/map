@@ -27,12 +27,6 @@
         }
       ],
       "isOpen": true
-    },
-    {
-      "name": "National Data Sets",
-      "type": "group",
-      "items": [],
-      "isOpen": false
     }
   ],
   "homeCamera": {
